@@ -5,7 +5,7 @@ import React from "react";
 const Packages: React.FC = () => {
   return (
     <div>
-      <section className="bg-[#1e3a5f] pt-20">
+      <section className="bg-[#1e3a5f] pt-60 md:pt-16">
         <div className="container mx-auto ">
           <div className="text-center p-10 md:p-20">
             <p className="uppercase text-md font-bold text-[#ff650e]">
